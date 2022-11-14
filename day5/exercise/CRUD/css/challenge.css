@@ -1,0 +1,17 @@
+body {
+    height: calc(100vh - 32px);
+}
+
+.img {
+    width: 260px;
+    height: 260px;
+}
+
+.btnsubmit {
+    border: none;
+    background: none;
+}
+
+.menuTitle {
+    font-family: serif;
+}
